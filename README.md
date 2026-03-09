@@ -13,7 +13,7 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 ## 📂 Required Files
 
-- `talhao_moo.qgz`: Required for `main_moo_cpp.py`. Place it in the same folder as the script.
+- `talhao_UFTM.qgz`: Required for `main_moo_cpp.py`. Place it in the same folder as the script.
 
 ## 💻 Requirements
 
@@ -25,4 +25,4 @@ This repository contains all scripts required to reproduce the simulation and nu
 ## ✉️ Contact
 
 For questions or replication of results:  
-fabian.molinas@uftm.edu.br
+fabian.molina@uftm.edu.br
