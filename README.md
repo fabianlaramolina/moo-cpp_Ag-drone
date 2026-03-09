@@ -19,7 +19,7 @@ This repository contains all scripts required to reproduce the simulation and nu
 ## 💻 Requirements
 
 - Python 3.8 or later.
-- geopandas library is required.
+- The following libraries are required: numpy, matplotlib, shapely, pymoo, geopandas and contextily.
 
 ---
 
