@@ -8,7 +8,15 @@
 - Maicon F. Appelt
 ## 📁 Included Scripts
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
+To reproduce the results, run the main_moo_cpp.py script. Upon execution, an interactive menu will appear in the terminal, allowing you to select the geometry for the coverage path planning analysis:
 
+    Polygon 1 (Nonagon): Executes the optimization for a complex 9-sided polygon.
+    Polygon 2 (Pentagon): Executes the optimization for a 5-sided polygon.
+    Polygon 3 (Rectangle): Executes the optimization for a standard rectangular area.
+    Polygon 4 (Circle): Executes the optimization for a circular geometry.
+    Map - Case Study: Runs the real-world simulation using the georeferenced data from the area_UFTM.shp file.
+
+Simply enter the corresponding number (1-5) to start the simulation for the desired scenario.
 ---
 
 ## 📂 Required Files
