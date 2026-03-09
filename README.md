@@ -13,12 +13,13 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 ## 📂 Required Files
 
-- `talhao_UFTM.qgz`: Required for `main_moo_cpp.py`. Place it in the same folder as the script.
+- `area_UFTM.shp`: Required for `main_moo_cpp.py`. Place it in the same folder as the script.
+- The files: area_UFTM.dbf, area_UFTM.dbf, area_UFTM.shx and area_UFTM.shx can be used to edit the georeferenced area of Fig.6(a) in Qgis (https://qgis.org/). 
 
 ## 💻 Requirements
 
 - Python 3.8 or later.
-- No additional toolboxes are required.
+- geopandas library is required.
 
 ---
 
